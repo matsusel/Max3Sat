@@ -1,0 +1,19 @@
+﻿  CMax3SatProblem.cpp
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  CGAOptimizer.cpp
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAOptimizer.cpp(18,14): warning C4091: "": zignorowano na lewo od "std::mersenne_twister_engine<unsigned int,32,624,397,31,2567483615,11,4294967295,7,2636928640,15,4022730752,18,1812433253>" podczas gdy brak deklaracji zmiennej
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAOptimizer.cpp(37,14): warning C4091: "": zignorowano na lewo od "std::mersenne_twister_engine<unsigned int,32,624,397,31,2567483615,11,4294967295,7,2636928640,15,4022730752,18,1812433253>" podczas gdy brak deklaracji zmiennej
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAOptimizer.cpp(95,14): warning C4091: "": zignorowano na lewo od "std::mersenne_twister_engine<unsigned int,32,624,397,31,2567483615,11,4294967295,7,2636928640,15,4022730752,18,1812433253>" podczas gdy brak deklaracji zmiennej
+  CGAIndividual.cpp
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.cpp(33,14): warning C4091: "": zignorowano na lewo od "std::mersenne_twister_engine<unsigned int,32,624,397,31,2567483615,11,4294967295,7,2636928640,15,4022730752,18,1812433253>" podczas gdy brak deklaracji zmiennej
+  Main.cpp
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Suseł\Desktop\max3satkopia\Max3Sat\CGAIndividual.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Klauzula.cpp
+  Generowanie kodu...
+  Max3Sat.vcxproj -> C:\Users\Suseł\Desktop\max3satkopia\x64\Debug\Max3Sat.exe
